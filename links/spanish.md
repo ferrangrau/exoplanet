@@ -14,3 +14,6 @@
 * [FotoDif](http://www.astrosurf.com/orodeno/fotodif/)
 * [Hops](https://www.exoworldsspies.com/en/software/)
 * [AstroimageJ](https://www.astro.louisville.edu/software/astroimagej/)
+
+## Manuales:
+* [Funcionamiento AstroimageJ (traducción Observatori Astronòmic Albanyà)](https://astrodennis.com/Guide-SP.pdf)

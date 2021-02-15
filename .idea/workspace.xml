@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9e87cb1-707d-4208-a84b-872f0871d624" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/links/catalan.md" beforeDir="false" afterPath="$PROJECT_DIR$/links/catalan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links/english.md" beforeDir="false" afterPath="$PROJECT_DIR$/links/english.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links/spanish.md" beforeDir="false" afterPath="$PROJECT_DIR$/links/spanish.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,0 +1,61 @@
+196	David Molina
+162	Ramon Naves Nogues
+157	Ferran Grau Horta
+120	Josep Gaitan
+104	Observatori Astronòmic Albanyà
+48	Juanjo Gonzalez
+44	Jordi Lopesino
+43	Alfonso Carreño
+42	Luis Tremosa
+40	Faustino Garcia
+38	Fran Campos
+35	Mario Morales Aimar
+26	Juan Lozano de Haro
+24	Enrique Díez Alonso
+22	Agrupació Astronòmica Sabadell
+22	Gustavo Muler Schteinman
+19	Observatorio Astronómico de Guirguillano
+14	University of Valencia
+12	Tony Angel and Caisey Harlingten
+11	Alberto García Sánchez
+11	Francisco Centenera Pecharromán
+10	Ruben Garcia
+9	Antoni Vives
+9	Jose Luis Martin Velasco
+8	Institut de Ciències de l’Espai
+7	José María Fernández Andújar
+7	Josep Lluís Salto
+6	Centro Astronómico Hispano en Andalucía
+6	David Cejudo
+5	Enrique Arce
+4	Angel Luis Marrero Corujo
+4	Francisco Jiménez Alvarado
+4	Instituto de Astrofisica de Canarias
+4	Juan-Luis G. Carballo
+3	Esteban Reina Lorenz
+3	Francisco Carlos Soldán Alfaro
+3	Juan José Sanabria Cumbreño
+3	Luis Pérez Fernandez
+3	Observatorio de Cantabria
+3	Rafael Benavides Palencia
+3	Rafael Castillo
+2	Casarramona F., Estraviz G.
+2	Fernando Huet
+2	Francisco José Fernández Gómez
+2	Josep M. Bosch
+2	Manuel Mendez
+2	Pedro Brines Rodriguez
+2	Xavier Rubia
+1	Agrupacion Astronomica de Madrid
+1	Carlos Morales Socorro
+1	Eduard Garcia
+1	Ferran Casarramona
+1	Institut Maria Rúbies
+1	Javier Salas
+1	Jesús Delgado Casal
+1	Juan Martínez Sánchez
+1	Miguel Sanchez
+1	Onofre Rodrigo
+1	Pedro Moral Martos
+1	Ramon Iglesias Marzoa
+1	Ramon Moliner
